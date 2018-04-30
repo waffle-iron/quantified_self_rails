@@ -1,10 +1,9 @@
 # Quantified Self
 
 [![Coverage Status](https://coveralls.io/repos/github/anlewis/quantified_self_rails/badge.svg?branch=master)](https://coveralls.io/github/anlewis/quantified_self_rails?branch=master)
-
 [![CircleCI](https://circleci.com/gh/anlewis/quantified_self_rails.svg?style=svg)](https://circleci.com/gh/anlewis/quantified_self_rails)
 
-### Abstract
+### About
 
 Quantified self is a simple calorie tracking application.
 
@@ -47,13 +46,13 @@ In order to run tests, perform the following:
 Quantified Self will have the following endpoints:
 
 Food Endpoints:
-`GET /api/v1/foods`
-`GET /api/v1/foods/:id`
-`PATCH /api/v1/foods/:id`
-`DELETE /api/v1/foods/:id`
+- `GET /api/v1/foods`
+- `GET /api/v1/foods/:id`
+- `PATCH /api/v1/foods/:id`
+- `DELETE /api/v1/foods/:id`
 
 Meal Endpoints:
-`GET /api/v1/meals`
-`GET /api/v1/meals/:meal_id/foods`
-`POST /api/v1/meals/:meal_id/foods/:id`
-`DELETE /api/v1/meals/:meal_id/foods/:id`
+- `GET /api/v1/meals`
+- `GET /api/v1/meals/:meal_id/foods`
+- `POST /api/v1/meals/:meal_id/foods/:id`
+- `DELETE /api/v1/meals/:meal_id/foods/:id`
