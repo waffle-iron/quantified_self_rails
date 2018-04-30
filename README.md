@@ -1,8 +1,8 @@
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/anlewis/quantified_self_rails.png?columns=all)](https://waffle.io/anlewis/quantified_self_rails?utm_source=badge)
 # Quantified Self
 
 [![Coverage Status](https://coveralls.io/repos/github/anlewis/quantified_self_rails/badge.svg?branch=master)](https://coveralls.io/github/anlewis/quantified_self_rails?branch=master)
 [![CircleCI](https://circleci.com/gh/anlewis/quantified_self_rails.svg?style=svg)](https://circleci.com/gh/anlewis/quantified_self_rails)
+[![Waffle.io](https://badge.waffle.io/anlewis/quantified_self_rails.png?columns=all)](https://waffle.io/anlewis/quantified_self_rails?utm_source=badge)
 
 ### About
 
